@@ -1,2 +1,2 @@
 # aws_projects_store
-In this repo, I have included all my projects, codes and blogs relatd to AWS  
+As I start learning AWS, I have included all the projects that go with my learning
