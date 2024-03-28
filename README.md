@@ -1,2 +1,3 @@
 # aws_projects_store
-As I am upskilling in AWS, I have included POC for all the projects that go with my learning
+
+As I continue to upskill in AWS, I have incorporated proof of concepts (POCs) for all the projects that align with my learning.
